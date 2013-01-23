@@ -71,5 +71,5 @@ class Crawl():
         print "that's all!"
         
         
-s = Crawl('http://beemp3.com/', 'gangnam')
+s = Crawl('http://mp3skull.com/', 'gangnam')
 s.start()
